@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "K:\\Professional\\app\\inphomeetmain\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KRISHNA\\.gradle\\caches\\transforms-2\\files-2.1\\c0743698f30a4cfc1fcf90dea8da4758\\core-1.3.2\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

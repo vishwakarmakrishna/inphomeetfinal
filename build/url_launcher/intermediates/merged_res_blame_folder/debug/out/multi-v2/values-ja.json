@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "K:\\Professional\\app\\inphomeetmain\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KRISHNA\\.gradle\\caches\\transforms-2\\files-2.1\\fcf767c94880f993f89dc830dd28f6f9\\core-1.1.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "K:\\Professional\\app\\inphomeetmain\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KRISHNA\\.gradle\\caches\\transforms-2\\files-2.1\\fcf767c94880f993f89dc830dd28f6f9\\core-1.1.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

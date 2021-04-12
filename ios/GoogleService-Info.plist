@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>593967892837-iqj20e4j9gd09eeds91sgstph4tccptd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.593967892837-iqj20e4j9gd09eeds91sgstph4tccptd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>593967892837-t48pf7l6b64q8rti80d6f7mmphgakd20.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAckahTtbT1bR_6pfCBXbPKeZEdWDuEDpw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593967892837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>krinfinity.inphomeet.inphomeet</string>
+	<key>PROJECT_ID</key>
+	<string>inpho-meet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inpho-meet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593967892837:ios:7b3b60bf85d62eb6ef798c</string>
+</dict>
+</plist>
